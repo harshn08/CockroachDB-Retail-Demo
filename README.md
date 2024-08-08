@@ -138,3 +138,6 @@ Log Order Information
 
 ![](/docs/RoachShop-FlowChart.jpg)
 
+### Contributing ###
+
+Reach out to Harsh Shah for details on this project and supporting material. Feel free to submit issues and pull requests. Contributions are welcome!
